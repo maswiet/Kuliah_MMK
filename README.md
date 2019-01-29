@@ -16,7 +16,7 @@
 # Kuliah Mekanika Medium Kontinyu (MFG2921)
 Kuliah MMK di Program Studi Geofisika, Departemen Fisika UGM, 3 SKS
 
-![Animasi_Gelombang](https://commons.wikimedia.org/wiki/File:Displacement_of_a_continuum.svg)
+![Animasi_Gelombang](https://upload.wikimedia.org/wikipedia/commons/8/8b/Displacement_of_a_continuum.svg)
 
 ## Pengampu
 - Dr.rer.nat. Herlan Darmawan, M.Sc (Sebelum Ujian Mid-Term)
