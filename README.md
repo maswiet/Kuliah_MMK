@@ -51,8 +51,8 @@ Berikut jadwal pertemuan setiap minggunya
 | 11     | Benda padat elastik2 (Linear Isotrop) | [T.B.A](#) |
 | 12     | Benda padat elastik1 (Linear Anisotrop) | [T.B.A](#) |
 | 13     | Benda padat elastik2 (Linear Anisotrop) | [T.B.A](#) |
-| 14     | Fluida Newtonian | [T.B.A](#) |
-| 15     | Komputasi MMK | [T.B.A](#) |
+| 14     | Komputasi MMK2 | [T.B.A](#) |
+| 15     | Komputasi MMK1 | [T.B.A](#) |
 | 16     | Ujian Akhir Semester | [T.B.A](#) |
 
 T.B.A = to-be-anounced 
