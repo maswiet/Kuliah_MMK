@@ -38,14 +38,22 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang osilasi | [Bahan Kuliah](http://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2301.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 2     | Gerak gelombang | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2302.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master))|
-| 3    | Dasar matematika | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2303.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 4     | Gelombang mekanik | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2305.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master)|
-| 5     | Gelombang suara melalui medium padat, cair dan gas | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2304.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 6     | Refleksi gelombang dan gelombang berdiri |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2306.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
-| 7     | Gelombang sferis, gelombang multidimensional |  [Bahan Kuliah](https://github.com/maswiet/Kuliah_Gelombang/blob/master/Kuliah_Minggu%2307.ipynb) / [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Gelombang/master) |
+| 1     | Dasar matematika, Kalkulus Tensor | T.B.A |
+| 2     | Prinsip Stress | T.B.A |
+| 3    | Diagram Mohr | T.B.A |
+| 4     | Deformasi Benda kontinyu1 | T.B.A |
+| 5     | Deformasi Benda kontinyu1 | T.B.A |
+| 6     | Gerak Benda Kontinyu1 | T.B.A |
+| 7     | Gerak Benda Kontinyu2 |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
+| 9     | Hukum-hukum dan Persamaan Fundamental| [T.B.A](#) |
+| 10     | Benda padat elastik1 (Linear Isotrop) | [T.B.A](#) |
+| 11     | Benda padat elastik2 (Linear Isotrop) | [T.B.A](#) |
+| 12     | Benda padat elastik1 (Linear Anisotrop) | [T.B.A](#) |
+| 13     | Benda padat elastik2 (Linear Anisotrop) | [T.B.A](#) |
+| 14     | Fluida Newtonian | [T.B.A](#) |
+| 15     | Komputasi MMK | [T.B.A](#) |
+| 16     | Ujian Akhir Semester | [T.B.A](#) |
 
 T.B.A = to-be-anounced 
 
