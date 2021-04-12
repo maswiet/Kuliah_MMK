@@ -30,7 +30,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Kamis, jam 15:30 s.d. 17:10 di S1.102
+- Senin, jam 13:30 s.d. 14:10 di Google Classroom
 
 Kuliah fisika "jaman now", atau istilah keren-nya Pendidikan 4.0 pastinya tidak lepas dari aplikasi komputer, sehingga dalam kuliah MMK ini juga pendekatan secara komputasi akan saya lakukan, terutama nanti pada saat memasuki aplikasi konsep ini di Geofisika. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrogramanyang lebih moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org). Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Fisika dan Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
